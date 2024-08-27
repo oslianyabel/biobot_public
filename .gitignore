@@ -1,0 +1,6 @@
+__pycache__/
+.env
+prod_env/
+tests.py
+downloads/
+venv/
